@@ -16,7 +16,7 @@ demonstrate how much more computational work is applied on higher numbers.
 | 2      | ![digraph_2](img/digraphs/digraph_2.png) | The simplest case demonstrates two properties of Kaprekar's Routine - The routine ends in some constant value, and duplicate values (repdigits) terminate in 0. For `k=2`, there is no Kaprekar's Constant; Instead, the patterns always end in a cycle of `9 -> 81 -> 63 -> 27 -> 45 -> 9`. | 0.59 s               |
 | 3      | ![digraph_3](img/digraphs/digraph_3.png) | The 3-digit case is a lot more interesting. It's harder to see here, but Kaprekar's Constant for 3 digits is 495.                                                                                                                                                                            | 2.20 s               |
 
-I've left out the 4 digit case as it is simply too big.
+I've left out the 4 digit case as it is too big for GitHub uploads to handle.
 
 # License TL;DR
 
